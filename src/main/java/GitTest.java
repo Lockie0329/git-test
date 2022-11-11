@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("hellow git ~");
         System.out.println("第二次修改");
         System.out.println("hellow hot fix");
+        System.out.println("hellow hot fix");
     }
 }
