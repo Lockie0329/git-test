@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hellow hot fix");
         //代码冲突
         System.out.println("合并前做修改");
+        System.out.println("hellow hot fix");
     }
 }
